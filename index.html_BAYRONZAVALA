@@ -1,0 +1,12 @@
+<html>
+   <head>
+     <title>Welcome to exemple.local!</title>
+   </head>
+   <body>
+     <h1>MI VIAJE POR TU CARA BB</h1>
+     <p> Mi primer dia saldria de <b>Santa Coloma de Gramanet </b>hasta a <b>Madrid,España</b><p> 
+     <iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d133593.43943269827!2d-3.535227881570203!3d40.39718509976285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x12a4bc87d8dda1f5%3A0x62a5c003c7b27b8!2sSanta%20Coloma%20de%20Gramanet!3m2!1d41.444587899999995!2d2.2103216999999997!4m5!1s0xd422997800a3c81%3A0xc436dec1618c2269!2sMadrid!3m2!1d40.4167754!2d-3.7037902!4m5!1s0xd42289d66d8a2ed%3A0x1094f07d93ad885a!2sMuseo%20del%20Prado%2C%20Calle%20de%20Ruiz%20de%20Alarc%C3%B3n%2C%20Madrid!3m2!1d40.413781799999995!2d-3.6921271!4m5!1s0xd4228e23705d39f%3A0xa8fff6d26e2b1988!2sEstadio%20Santiago%20Bernab%C3%A9u%2C%20Avenida%20de%20Concha%20Espina%2C%20Madrid!3m2!1d40.4530387!2d-3.6883337!4m5!1s0xd422e50d152df37%3A0x801ce4be7e7a5eec!2sRecinto%20Ferial%20-%20IFEMA%20MADRID%2C%20Avenida%20del%20Parten%C3%B3n%2C%20Madrid!3m2!1d40.4679236!2d-3.6179202!4m5!1s0xd422fb50048180f%3A0x33bd5b6547369913!2sParque%20Juan%20Carlos%20I%2C%20Madrid!3m2!1d40.460916!2d-3.6047051999999997!5e0!3m2!1sca!2ses!4v1633085395897!5m2!1sca!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+     <p>Llegariamos a descansar al <b>Hotel Santo Domingo</b>a descansar a dejar las maletas o las mochilas que llevaremos y descansaremos unas horas.<p>
+     <img src="https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/15/88/1588199_v12.jpeg" width= "500" height= "400"> <img src="https://images.trvl-media.com/hotels/4000000/3480000/3472200/3472151/0bed3e84.jpg?impolicy=fcrop&w=670&h=385&p=1&q=medium" width= "600" height= "400">
+        </body>
+ </html>
